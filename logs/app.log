@@ -1,0 +1,26 @@
+{"level":30,"time":"2026-03-30T06:44:07.772Z","pid":14656,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:44:36.701Z","pid":14656,"hostname":"DESKTOP-O5S5VQT","req":{"id":1,"method":"POST","url":"/seckill","headers":{"user-agent":"Apifox/1.0.0 (https://apifox.com)","content-type":"application/json","accept":"*/*","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"42"},"remoteAddress":"::1","remotePort":55130},"res":{"statusCode":200,"headers":{"x-request-id":"aabba757-b619-48ed-9823-c6ffa44b48bf","content-type":"text/plain; charset=utf-8","content-length":30}},"responseTime":72,"msg":"request completed"}
+{"level":30,"time":"2026-03-30T06:46:27.004Z","pid":5340,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.016Z","pid":1820,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.090Z","pid":13392,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.169Z","pid":23200,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.230Z","pid":22124,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.303Z","pid":1448,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.395Z","pid":21084,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.471Z","pid":20560,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.553Z","pid":21236,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.661Z","pid":26524,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.713Z","pid":24952,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.811Z","pid":28240,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.894Z","pid":17504,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:27.942Z","pid":13036,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.023Z","pid":20936,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.095Z","pid":21216,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.174Z","pid":10056,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.250Z","pid":26612,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.321Z","pid":3284,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.402Z","pid":3824,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.482Z","pid":21836,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.555Z","pid":22676,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.625Z","pid":18060,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}
+{"level":30,"time":"2026-03-30T06:46:28.684Z","pid":16496,"hostname":"DESKTOP-O5S5VQT","msg":"服务启动：http://localhost:3000"}

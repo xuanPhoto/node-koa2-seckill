@@ -1,0 +1,12 @@
+2026-03-30 14:46:26: [dotenv@17.3.1] injecting env (13) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2026-03-30 14:46:26: [dotenv@17.3.1] injecting env (13) from .env -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+2026-03-30 14:46:26: 正在连接 RabbitMQ...
+2026-03-30 14:46:26: Redis 连接成功
+2026-03-30 14:46:26: 正在连接 RabbitMQ...
+2026-03-30 14:46:26: [dotenv@17.3.1] injecting env (13) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2026-03-30 14:46:26: Redis 连接成功
+2026-03-30 14:46:26:  RabbitMQ 生产者初始化完成（可靠confirm模式）
+2026-03-30 14:46:27:  RabbitMQ 生产者初始化完成（可靠confirm模式）
+2026-03-30 14:46:27: 商品 1 库存初始化: 20
+2026-03-30 14:46:27: 商品 2 库存初始化: 19
+2026-03-30 14:46:27: 商品 3 库存初始化: 20
