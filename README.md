@@ -2,7 +2,7 @@
 
 ##### 介绍
 
-高并发秒杀系统`Koa2` `Redis` `Lua` `RabbitMQ` `MySQL` `Pino`
+高并发秒杀系统 `Koa2` `Redis` `Lua` `RabbitMQ` `MySQL` `Pino`
 
 解决：超卖、重复下单、并发崩溃、库存恶意占用、超时未支付自动取消。
 
