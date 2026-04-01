@@ -28,7 +28,8 @@
 
 1.  需要开启redis、RabbitMQ
 2.  可以观察products表中值和redis中stock:1的库存值
-3.  数据库SQL创建两个表（库存、订单）
+3.  .env配置需要更改成你本地数据库
+4.  数据库SQL创建两个表（库存、订单）
 
 ```
         CREATE TABLE products (
@@ -50,7 +51,7 @@
         );
 ```
 
-4.  POST: http://localhost:3000/seckill
+5.  POST: http://localhost:3000/seckill
 
 ```
             {
